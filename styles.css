@@ -1,0 +1,61 @@
+
+        #p1
+        {
+            color:blue;
+            font-size: math;
+        }
+        .pt
+        {
+            color: red;
+            font-size: larger;
+        }
+        p
+        {
+            color: mediumblue;
+            font-size: math;
+        }
+        .pp
+        {
+            color: red;
+            font-size: larger;
+        }
+       body
+       {
+           background-color: grey;
+       }
+        ol li
+        {
+            list-style-type: number;
+        }
+        ul li
+        {
+            list-style-type: none;
+        }
+        #nav li a:active
+        {
+            color: red;
+            font-weight: bold;
+        }
+        a
+        {
+            text-decoration: none;
+            padding: 5px;
+            text-transform: uppercase;
+            color: white;
+        }
+
+        #nav li
+        {
+            display: inline;
+        }
+        #nav
+        {
+            background-color: black;
+            padding: 10px;
+        }
+        #google
+        {
+            color: red;
+            font-weight: bold;
+            font-size: 40px;
+        }
